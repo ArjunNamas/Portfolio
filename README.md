@@ -1,4 +1,4 @@
-<h1>Hi, I'm Arjun! <br/> Aspiring Software Developer | IT Student | Future Degree Apprentice</h1>
+<h1>Hi, I'm Arjun! <br/> Aspiring IT Degree Apprentice | IT Student | At Uxbridge College</h1>
 
 <h2>👨‍💻 Software Development Projects</h2>
 
